@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImplicitExplicitIntents</string>
+    <array name="arrintents">
+        <item>Google Search</item>
+        <item>Send SMS</item>
+        <item>Dial a number</item>
+        <item>Set Alarm</item>
+        <item>Show Google Map</item>
+    </array>
+</resources>
