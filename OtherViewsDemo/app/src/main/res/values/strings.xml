@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OtherViewsDemo</string>
+    <array name="intents">
+        <item>Set Alarm</item>
+        <item>Visit Google Home Page</item>
+        <item>Dial a number</item>
+        <item>Send SMS</item>
+        <item>Show Google Map</item>
+
+    </array>
+</resources>
